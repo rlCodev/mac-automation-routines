@@ -1,0 +1,28 @@
+{
+    "apps": [
+        {
+            "name": "Slack",
+            "action": "your_action_here",
+            "modality": "minimized",
+            "location": "Monitor1"
+        },
+        {
+            "name": "Visual Studio Code",
+            "action": "your_action_here",
+            "modality": "minimized",
+            "location": "Monitor2"
+        },
+        {
+            "name": "Safari",
+            "action": "your_action_here",
+            "modality": "minimized",
+            "location": "Monitor1",
+            "urls": [
+                {
+                    "url": "https://www.github.com",
+                    "action": "your_action_here"
+                }
+            ]
+        }
+    ]
+}
